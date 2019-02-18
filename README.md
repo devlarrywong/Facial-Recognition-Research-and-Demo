@@ -2,6 +2,9 @@
 
 This is the third Xccelerate Full Time Data Science Bootcamp Cohort 3 group project, that we need to explore a facial recognition library called "facial_recognition" based on "Dlib".
 
+## Installation
+Please reference on this [repositories](https://github.com/youonf/starter_guide_face_recog#installing-the-required-packages)
+
 
 ## Table of Contents
 For detail please refer to the jupyter notebook [here](https://github.com/devlarrywong/Facial-Recognition-Research-and-Demo/tree/master/notebook)
