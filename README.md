@@ -1,5 +1,9 @@
 # Facial-Recognition-Research-and-Demo
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+![tested-on-osx](https://img.shields.io/badge/Tested%20on-OSX-lightgrey.svg)
+
 This is the third Xccelerate Full Time Data Science Bootcamp Cohort 3 group project, that we need to explore a facial recognition library called "facial_recognition" based on "Dlib".
 
 ## Installation
